@@ -4,5 +4,3 @@
 .terraform
 *.tfstate
 *.tfstate.backup
-file-layouts/global/.terraform
-file-layouts/stage/.terraform
